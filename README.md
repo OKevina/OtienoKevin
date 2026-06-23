@@ -2,14 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn%22 />
 </p>
  
-# Hi there, I'm Kevin Otieno 👋
+# Hi there, I'm [Your Name] 👋
  
 A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
  
 - 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
-
 - 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
-
 - ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
  
 ---
@@ -27,16 +25,15 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
 ---
  
 ## GitHub Stats
-
 *Note: These data visualization modules automatically update in real time based on your active version control contributions.*
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=OKevina&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff%22 alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=OtienoKevin&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff%22 alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OKevina&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff%22 alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtienoKevin&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff%22 alt="Top Languages" />
  
   <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OKevina&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true%22 alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OtienoKevin&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true%22 alt="Contribution Graph" />
 </p>
 </p>
  
@@ -45,10 +42,8 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
 ## Connect With Me
  
 - 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
-
-- 📧 **Direct Contact:** kevin.w.otieno@gmail.com
+- 📧 **Direct Contact:** [Your email address or professional contact point]
  
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer%22 />
 </p>
- 
